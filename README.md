@@ -8,9 +8,9 @@ A Guide to Data Science for the Lightning Network
 2. You will have access to a set of code and gossip data; you can run the code to see the application of these concepts
 3. You will interact with mempool and Blockstream APIs to explore the data they expose. You will have code and sample output from LND API.
 
-![Book Cover](assets/BookCover.jpeg)
-<img src="assets/BookCover.jpeg" alt="Book Cover" width="50%"/>
-<img src="assets/BookCover.jpeg" alt="Book Cover" width="300" height="400"/>
+
+<img src="assets/BookCover.jpeg" alt="Book Cover" height="70%" width="70%"/>
+
 ## Chapter Structure
 
 1. **How Many Nodes and Channels**: Covers the basics of the Lightning Network, focusing on counting and analyzing the number of nodes and channels in the network.
