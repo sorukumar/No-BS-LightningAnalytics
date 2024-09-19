@@ -1,6 +1,6 @@
 # No-BS-LightningAnalytics
 
-![Book Cover](assets/bookcover.jpg)
+![Book Cover](assets/BookCover.jpeg)
 
 A Guide to Data Science for the Lightning Network
 
