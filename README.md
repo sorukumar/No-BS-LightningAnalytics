@@ -10,7 +10,7 @@ A Guide to Data Science for the Lightning Network
 
 
 
-<img src="assets/BookCover.jpeg" alt="No-BS Lightning Analytics book cover: a Lightning network graph with a payment route highlighted" height="70%" width="70%"/>
+<img src="assets/cover-2026.jpeg" alt="No-BS Lightning Analytics book cover: a Lightning network graph with a payment route highlighted" height="70%" width="70%"/>
 
 ## Chapter Structure
 
